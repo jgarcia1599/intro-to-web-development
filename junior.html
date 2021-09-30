@@ -6,9 +6,15 @@
                 background-color: aqua;
             }
         </style>
+        <script>
+            function changeColor(){
+                document.getElementById("change-this").style.color = "blue";
+                console.log("wooohooo we changed color.")
+            }
+        </script>
     </head>
     <div>
-        <p>
+        <p id="change-this" onclick="changeColor()">
             Hello World, my name is Junior. 
         </p>
     </div>
