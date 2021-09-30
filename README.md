@@ -2,6 +2,7 @@
 A quick crash course by Junior Garcia
 ## Outline
 - What is a website?
+<img src ="website.png"/>
 - Client-server model
 <img src="client-server-model.png"/>
 - What is a website composed of? 
